@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+.icon{
+  height: 50px;
+}
+.image-btn{
+  background-color: transparent;
+  border: 3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  margin-right:10px ;
+  cursor: pointer;
+}
+.result{
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.scorecard{
+  margin-top: 60px;
+}
+.reset-btn{
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+}
